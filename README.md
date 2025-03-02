@@ -1,6 +1,6 @@
 # Chat with Elon Musk using BlenderBot (Hugging Face Transformers)
 
-This repository demonstrates how to use **BlenderBot**, a state-of-the-art conversational AI model from **Hugging Face Transformers**, to simulate a chat with Elon Musk. The model is capable of generating context-aware and human-like responses, making it an engaging AI-powered chatbot.
+This project demonstrates how to use **BlenderBot**, a state-of-the-art conversational AI model from **Hugging Face Transformers**, to simulate a chat with Elon Musk. The model is capable of generating context-aware and human-like responses, making it an engaging AI-powered chatbot.
 
 ## Features
 ✅ **Pre-trained Conversational AI** – Uses **BlenderBot**, a powerful open-domain chatbot model.  
